@@ -1,10 +1,9 @@
 # 网站项目名称 Website Name
 
-[![GitHub Stars](https://img.shields.io/github/stars/Vers123/仓库名?style=flat-square)](https://github.com/Vers123/仓库名/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Vers123/仓库名?style=flat-square)](https://github.com/Vers123/仓库名/forks)
-[![License](https://img.shields.io/github/license/Vers123/仓库名?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/Vers123/仓库名/deploy.yml?branch=main&style=flat-square)](https://github.com/Vers123/仓库名/actions)
-[![Node](https://img.shields.io/badge/node-%3E%3D18.16-green?style=flat-square)]()
+[![GitHub Stars](https://img.shields.io/github/stars/Vers123/ANIPLEX-teaching?style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Vers123/ANIPLEX-teaching?style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/forks)
+[![License](https://img.shields.io/github/license/Vers123/ANIPLEX-teaching?style=flat-square)](LICENSE)
+[![Build](https://img.shields.io/github/actions/workflow/status/Vers123/ANIPLEX-teaching/deploy.yml?branch=main&style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/actions)
 
 > 这是原神相关信息的数据库网站
 
