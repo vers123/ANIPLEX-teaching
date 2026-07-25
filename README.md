@@ -1,5 +1,7 @@
 # 网站项目名称 Website Name
 
+> 目前分支: main, featurel
+
 [![GitHub Stars](https://img.shields.io/github/stars/Vers123/ANIPLEX-teaching?style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Vers123/ANIPLEX-teaching?style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/forks)
 [![License](https://img.shields.io/github/license/Vers123/ANIPLEX-teaching?style=flat-square)](LICENSE)
