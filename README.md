@@ -2,10 +2,8 @@
 
 > 目前分支: main, featurel
 
-[![GitHub Stars](https://img.shields.io/github/stars/Vers123/ANIPLEX-teaching?style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Vers123/ANIPLEX-teaching?style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/forks)
-[![License](https://img.shields.io/github/license/Vers123/ANIPLEX-teaching?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/Vers123/ANIPLEX-teaching/deploy.yml?branch=main&style=flat-square)](https://github.com/Vers123/ANIPLEX-teaching/actions)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Version](https://img.shields.io/badge/version-V0.0.1-green)
 
 > 这是原神相关信息的数据库网站
 
